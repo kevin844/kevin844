@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kevin844
+- 👀 I’m interested in software development, penetration testing, cloud computing and free software.
+- 🌱 I’m currently learning about exploiting and correcting common vulnerabilities and misconfigurations, privesc, cyber defense and response to computer incidents.
+- 💞️ I’m looking to collaborate on in open source projects and in some foundations.
+- 📫 How to reach me: in [Facebook](https://www.facebook.com/KevinGutierrez1100/) or [Linkedin](https://www.linkedin.com/in/kevin-gutierrez-388137214/)
